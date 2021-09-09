@@ -1,0 +1,14 @@
+com/newnote/MainApplication.java
+ com.newnote.MainApplication
+ com.newnote.MainApplication$1
+com/newnote/MainActivity.java
+ com.newnote.MainActivity
+com/newnote/ReactNativeFlipper.java
+ com.newnote.ReactNativeFlipper
+ com.newnote.ReactNativeFlipper$1
+ com.newnote.ReactNativeFlipper$2
+ com.newnote.ReactNativeFlipper$2$1
+com/newnote/BuildConfig.java
+ com.newnote.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

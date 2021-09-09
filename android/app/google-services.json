@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9744423452",
+    "project_id": "note-da166",
+    "storage_bucket": "note-da166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9744423452:android:67649b6b136917302e5dd9",
+        "android_client_info": {
+          "package_name": "com.newnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9744423452-lplbfpsjqelvnbou43ngb6l7bku290ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjELl0xtIvYo7IbnVVoNwKaz_gmKRjJHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9744423452-lplbfpsjqelvnbou43ngb6l7bku290ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
