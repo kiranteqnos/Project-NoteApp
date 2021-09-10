@@ -35,7 +35,7 @@ export const AuthProvider = ({ children }) => {
                                 console.log("Something went wrong : ", error);
                             });
                         }). catch(e=>{
-                            copnsole.log("Something went wrong: ",e);
+                            console.log("Something went wrong: ",e);
                         });
                     }
                      catch (e) {
