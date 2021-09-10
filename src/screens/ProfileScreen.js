@@ -27,7 +27,7 @@ const HomeScreen = () => {
 
     return (
         <View style={styles.container} >
-            <Text style={styles.text}>Hello {user.email}</Text>
+            <Text style={styles.text}>Hello {userData.name}</Text>
             <FormButton buttonTitle="Logout" onPress={() => { logout() }} />
         </View>
     );
