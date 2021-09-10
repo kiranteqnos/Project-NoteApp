@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/kiranshaji/.gradle/caches/transforms-3/8a7122821785f6fb8dc84eeae5c15103/transformed/appcompat-1.1.0/res/values/values.xml",
@@ -78,6 +78,23 @@
                     }
                 },
                 {
+                    "source": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "694",
+                        "startColumns": "4",
+                        "startOffsets": "44657",
+                        "endColumns": "44",
+                        "endOffsets": "44697"
+                    }
+                },
+                {
                     "source": "/home/kiranshaji/.gradle/caches/transforms-3/3f4979ad278313fc17a4efaacebad19f/transformed/jetified-play-services-base-17.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -132,57 +149,6 @@
                         "endLines": "24,4391,5653,5742",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "1334,297128,366365,371576"
-                    }
-                },
-                {
-                    "source": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "44",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "694",
-                        "startColumns": "4",
-                        "startOffsets": "44657",
-                        "endColumns": "44",
-                        "endOffsets": "44697"
-                    }
-                },
-                {
-                    "source": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "658,659",
-                        "startColumns": "4,4",
-                        "startOffsets": "42138,42202",
-                        "endColumns": "63,68",
-                        "endOffsets": "42197,42266"
-                    }
-                },
-                {
-                    "source": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/build/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,197,277,381,488,608,702",
-                        "endColumns": "141,79,103,106,119,93,70",
-                        "endOffsets": "192,272,376,483,603,697,768"
-                    },
-                    "to": {
-                        "startLines": "751,756,757,758,759,760,810",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "51279,51889,51969,52073,52180,52300,60296",
-                        "endColumns": "141,79,103,106,119,93,70",
-                        "endOffsets": "51416,51964,52068,52175,52295,52389,60362"
                     }
                 },
                 {
@@ -241,7 +207,7 @@
                     }
                 },
                 {
-                    "source": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -298,6 +264,23 @@
                     }
                 },
                 {
+                    "source": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,197,277,381,488,608,702",
+                        "endColumns": "141,79,103,106,119,93,70",
+                        "endOffsets": "192,272,376,483,603,697,768"
+                    },
+                    "to": {
+                        "startLines": "751,756,757,758,759,760,810",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "51279,51889,51969,52073,52180,52300,60296",
+                        "endColumns": "141,79,103,106,119,93,70",
+                        "endOffsets": "51416,51964,52068,52175,52295,52389,60362"
+                    }
+                },
+                {
                     "source": "/home/kiranshaji/.gradle/caches/transforms-3/b514cb7bc1710218aff117b34a522ff8/transformed/jetified-play-services-basement-17.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -331,6 +314,23 @@
                         "endLines": "4555,4562,4573,6864,6869",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "306649,307034,307631,427687,427957"
+                    }
+                },
+                {
+                    "source": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "658,659",
+                        "startColumns": "4,4",
+                        "startOffsets": "42138,42202",
+                        "endColumns": "63,68",
+                        "endOffsets": "42197,42266"
                     }
                 },
                 {

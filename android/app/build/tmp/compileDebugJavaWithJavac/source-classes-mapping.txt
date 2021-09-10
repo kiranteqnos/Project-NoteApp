@@ -8,7 +8,7 @@ com/newnote/ReactNativeFlipper.java
  com.newnote.ReactNativeFlipper$1
  com.newnote.ReactNativeFlipper$2
  com.newnote.ReactNativeFlipper$2$1
-com/newnote/BuildConfig.java
- com.newnote.BuildConfig
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList
+com/newnote/BuildConfig.java
+ com.newnote.BuildConfig

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "outputFile": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
             "map": [
                 {
                     "source": "/home/kiranshaji/.gradle/caches/transforms-3/3f4979ad278313fc17a4efaacebad19f/transformed/jetified-play-services-base-17.5.0/res/values-gu/values.xml",

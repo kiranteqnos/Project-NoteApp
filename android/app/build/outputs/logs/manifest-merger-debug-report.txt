@@ -1,21 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
 MERGED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/02a8b6753e890c3f8a99b78070b5c2d2/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/b0efbcb9880e2c36cb6f42d5e8cda53b/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
-MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.65.1] /home/kiranshaji/.gradle/caches/transforms-3/c0921f872a2bef4c9fc3b7be741aa0f7/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
 MERGED from [androidx.browser:browser:1.0.0] /home/kiranshaji/.gradle/caches/transforms-3/c7cbc3cabf47ad4e5b190f26a1722049/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -91,44 +91,44 @@ MERGED from [androidx.print:print:1.0.0] /home/kiranshaji/.gradle/caches/transfo
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/kiranshaji/.gradle/caches/transforms-3/0b0cd437a7cd91eecd4f012d0b224a59/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/kiranshaji/.gradle/caches/transforms-3/d56bbb4354db1a619bbdbb4d33506d55/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kiranshaji/.gradle/caches/transforms-3/1ea424fb18c2b6ccded4b61d21b122c2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:2:3-24
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:2:3-24
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:1-25:12
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
-MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/kiranshaji/.gradle/caches/transforms-3/8e7d1b452bd73ea25c5124cc33904655/transformed/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/kiranshaji/.gradle/caches/transforms-3/8e7d1b452bd73ea25c5124cc33904655/transformed/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
-MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
 MERGED from [com.facebook.react:react-native:0.65.1] /home/kiranshaji/.gradle/caches/transforms-3/c0921f872a2bef4c9fc3b7be741aa0f7/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.65.1] /home/kiranshaji/.gradle/caches/transforms-3/c0921f872a2bef4c9fc3b7be741aa0f7/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
@@ -160,77 +160,77 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kiran
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /home/kiranshaji/.gradle/caches/transforms-3/aaf12651097f0d139800e23bc06821a5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:10:9-48
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:9:9-29
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:8:9-44
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.newnote.MainActivity
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:13:7-23:18
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:13:7-23:18
 	android:label
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:launchMode
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:17:9-40
 	android:windowSoftInputMode
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:18:9-51
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:16:9-86
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:16:9-86
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/02a8b6753e890c3f8a99b78070b5c2d2/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/02a8b6753e890c3f8a99b78070b5c2d2/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/b0efbcb9880e2c36cb6f42d5e8cda53b/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/b0efbcb9880e2c36cb6f42d5e8cda53b/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /home/kiranshaji/.gradle/caches/transforms-3/c0921f872a2bef4c9fc3b7be741aa0f7/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /home/kiranshaji/.gradle/caches/transforms-3/c0921f872a2bef4c9fc3b7be741aa0f7/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
@@ -381,32 +381,32 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/kirans
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/kiranshaji/.gradle/caches/transforms-3/d56bbb4354db1a619bbdbb4d33506d55/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kiranshaji/.gradle/caches/transforms-3/1ea424fb18c2b6ccded4b61d21b122c2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kiranshaji/.gradle/caches/transforms-3/1ea424fb18c2b6ccded4b61d21b122c2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:11:9-86
+ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:11:9-86
 	android:name
-		ADDED from /home/kiranshaji/development/learn/NotesApp/NewNote/android/app/src/debug/AndroidManifest.xml:11:19-83
+		ADDED from /home/kiranshaji/development/learn/Project-NoteApp/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.93.0] /home/kiranshaji/.gradle/caches/transforms-3/40356f6897fa1083ee84c0a7bd194662/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+		ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/kiranshaji/.gradle/caches/transforms-3/8e7d1b452bd73ea25c5124cc33904655/transformed/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:13:5-79
@@ -414,15 +414,15 @@ MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/kiranshaji/.gr
 MERGED from [io.grpc:grpc-android:1.28.0] /home/kiranshaji/.gradle/caches/transforms-3/f758a55d17b7fdcfa4bcb07cbeafe3d5/transformed/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.28.0] /home/kiranshaji/.gradle/caches/transforms-3/f758a55d17b7fdcfa4bcb07cbeafe3d5/transformed/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+		ADDED from [:react-native-firebase_auth] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
 	android:value
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/kiranshaji/.gradle/caches/transforms-3/8e7d1b452bd73ea25c5124cc33904655/transformed/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:17:9-23:19
@@ -436,23 +436,23 @@ MERGED from [com.google.firebase:firebase-common:20.0.0] /home/kiranshaji/.gradl
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/kiranshaji/.gradle/caches/transforms-3/121213876db6fa70b005d26d22ee47f3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
 	android:value
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/NotesApp/NewNote/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+		ADDED from [:react-native-firebase_app] /home/kiranshaji/development/learn/Project-NoteApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/kiranshaji/.gradle/caches/transforms-3/1e2c05646c2ddcf1281f8790edcb01e8/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents

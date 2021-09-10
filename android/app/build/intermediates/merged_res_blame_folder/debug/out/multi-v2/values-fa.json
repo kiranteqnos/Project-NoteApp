@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kiranshaji/development/learn/NotesApp/NewNote/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "outputFile": "/home/kiranshaji/development/learn/Project-NoteApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "/home/kiranshaji/.gradle/caches/transforms-3/aaf12651097f0d139800e23bc06821a5/transformed/core-1.6.0/res/values-fa/values-fa.xml",
