@@ -4,7 +4,6 @@ import { FlatList } from 'react-native-gesture-handler';
 
 import firestore from '@react-native-firebase/firestore';
 import { FAB } from 'react-native-elements';
-import EditNote from './EditNote';
 
 import { AuthContext } from '../navigation/AuthProvider';
 import NoteCard from '../components/NoteCard';
@@ -86,7 +85,7 @@ const HomeScreen = () => {
         <Container>
             <FlatList
                 data={notes}
-                renderItem={({ item }) => <NoteCard item={item} onEdit={editNote} onDelete={deleteNote} />}
+                renderItem={({ item }) => <NoteCard item={item} onDelete={deleteNote} />}
                 keyExtractor={item => item.id}
                 showsVerticalScrollIndicator={false} />
             <FAB

@@ -13,14 +13,14 @@ import {
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 
-const NoteCard = ({item, onDelete, onEdit}) => {
+const NoteCard = ({item, onDelete}) => {
     return (
         <Card>
             <NoteTile>{item.title}</NoteTile>
             <NoteBody>{item.body}</NoteBody>
             <Divider />
             <ButtonContainer>
-                <NoteButton onPress={()=>onEdit(item.id)}>
+                <NoteButton>
                     <Ionicons name='create' size={25} />
                     <ButtonText>Edit</ButtonText>
                 </NoteButton>
